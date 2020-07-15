@@ -1,0 +1,3 @@
+C:\2020_Second_Semester\Javascript Frameworks\Week9Authentication\Lab_4_Authentication\Lab_4_Authentication\obj\Debug\Lab_4_Authentication.njsprojAssemblyReference.cache
+C:\2020_Second_Semester\Javascript Frameworks\Week9Authentication\Lab_4_Authentication\Lab_4_Authentication\obj\Debug\Lab_4_Authentication.njsproj.CoreCompileInputs.cache
+C:\2020_Second_Semester\Javascript Frameworks\Week9Authentication\Lab_4_Authentication\Lab_4_Authentication\bin\Microsoft.NodejsTools.WebRole.dll

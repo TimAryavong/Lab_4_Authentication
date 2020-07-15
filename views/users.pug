@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    div(class=container) 
+        p Welcome to the #{title} page  #{user}
+        table
+          thead
+            tr
+              th Users
+          tbody
+            each user in users
+              tr
+                td= user.username
+    include footer
+    
