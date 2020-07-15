@@ -1,9 +1,5 @@
 # Lab_4_Authentication
 
-if you try to log in before registering, the site will crash...
-if you try to register the same username twice, the site crashes..
-ig you try to log in after registering, the site crashes...
-randomly able to register only some times.
-Works fine in VS2019 but Full functionality not achieved...
+found a workaround to my previous problems, though i'm not sure if it's the best way to do things
 https://timaryavong.herokuapp.com/
 
