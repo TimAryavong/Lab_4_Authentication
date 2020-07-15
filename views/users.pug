@@ -3,13 +3,14 @@ extends layout
 block content
     div(class=container) 
         p Welcome to the #{title} page  #{user}
-        table
-          thead
-            tr
-              th Users
-          tbody
-            each user in users
-              tr
-                td= user.username
+          table
+            thead
+                th Users
+            tbody
+                each _ in users
+                    tr
+                        td='Username: ' +  _.username
+                        td=' - Id: ' + _.id
+                        
     include footer
     
